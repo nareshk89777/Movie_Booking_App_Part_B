@@ -15,5 +15,4 @@ let coupons = [
         value: 20
     }
 ]
-
 export default coupons;

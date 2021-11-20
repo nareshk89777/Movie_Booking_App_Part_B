@@ -20,5 +20,4 @@ let language = [
       language: "Telugu"
     }
   ]
-  
   export default language;
