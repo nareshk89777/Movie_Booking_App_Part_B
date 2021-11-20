@@ -23,7 +23,5 @@ let location = [
       id: 5,
       location: "Chennai"
     }
-
   ]
-  
   export default location;

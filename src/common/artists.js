@@ -8,6 +8,7 @@ const artists = [
         "profile_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Marlon_Brando_%28cropped%29.jpg",
         "wiki_url": "https://en.wikipedia.org/wiki/Marlon_Brando"
     },
+
     {
         "id": "A2",
         "first_name": "Al",
@@ -16,6 +17,7 @@ const artists = [
         "profile_description": "Alfredo James Pacino is an American actor and filmmaker. Pacino has had a career spanning over five decades, during which time he has received numerous accolades and honors both competitive and honorary, among them an Academy Award, two Tony Awards, two Primetime Emmy Awards, a British Academy Film Award, four Golden Globe Awards, the Lifetime Achievement Award from the American Film Institute, the Golden Globe Cecil B. DeMille Award, and the National Medal of Arts. He is also one of few performers to have won a competitive Oscar, an Emmy, and a Tony Award for acting, dubbed the 'Triple Crown of Acting'.",
         "wiki_url": "https://en.wikipedia.org/wiki/Pedro_Pascal"
     },
+
     {
         "id": "A3",
         "first_name": "Christian",
@@ -25,6 +27,7 @@ const artists = [
         "profile_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Christian_Bale_2014_%28cropped%29.jpg/1024px-Christian_Bale_2014_%28cropped%29.jpg",
         "wiki_url": "https://en.wikipedia.org/wiki/Christian_Bale"
     },
+
     {
         "id": "A4",
         "first_name": "Heath",
@@ -34,6 +37,7 @@ const artists = [
         "profile_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Heath_Ledger_%28Berlin_Film_Festival_2006%29_revised.jpg/1024px-Heath_Ledger_%28Berlin_Film_Festival_2006%29_revised.jpg",
         "wiki_url": "https://en.wikipedia.org/wiki/Heath_Ledger"
     },
+
     {
         "id": "A5",
         "first_name": "Leonardo",
@@ -43,6 +47,7 @@ const artists = [
         "profile_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Leonardo_DiCaprio_visited_Goddard_Saturday_to_discuss_Earth_science_with_Piers_Sellers_%2826105091624%29_cropped.jpg",
         "wiki_url": "https://en.wikipedia.org/wiki/Leonardo_DiCaprio"
     },
+
     {
         "id": "A6",
         "first_name": "Joseph",
@@ -52,6 +57,7 @@ const artists = [
         "profile_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Joseph_Gordon-Levitt_2013.jpg",
         "wiki_url": "https://en.wikipedia.org/wiki/Joseph_Gordon-Levitt"
     },
+
     {
         "id": "A7",
         "first_name": "Matthew",
@@ -61,6 +67,7 @@ const artists = [
         "profile_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Matthew_McConaughey_-_Goldene_Kamera_2014_-_Berlin.jpg/1024px-Matthew_McConaughey_-_Goldene_Kamera_2014_-_Berlin.jpg",
         "wiki_url": "https://en.wikipedia.org/wiki/Matthew_McConaughey"
     },
+
     {
         "id": "A8",
         "first_name": "Anne",
@@ -70,6 +77,7 @@ const artists = [
         "profile_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Anne_Hathaway_in_2017.png",
         "wiki_url": "https://en.wikipedia.org/wiki/Anne_Hathaway"
     },
+
     {
         "id": "A9",
         "first_name": "Rajkummar",
@@ -79,6 +87,7 @@ const artists = [
         "profile_url": "https://en.wikipedia.org/wiki/Rajkummar_Rao#/media/File:Rajkummar_Rao_World_Premiere_Newton_Zoopalast_Berlinale_2017_02.jpg",
         "wiki_url": "https://en.wikipedia.org/wiki/Rajkummar_Rao"
     },
+
     {
         "id": "A10",
         "first_name": "KayKay",
@@ -88,6 +97,7 @@ const artists = [
         "profile_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Kay_Kay_Menon_at_libas_store.jpg",
         "wiki_url": "https://en.wikipedia.org/wiki/Kay_Kay_Menon"
     }
+    
 ];
 
 export default artists;

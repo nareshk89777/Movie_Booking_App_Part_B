@@ -21,7 +21,6 @@ let language = [
     {
       id: 5,
       language: "Telugu"
-    }
-    
+    } 
   ]
   export default language;

@@ -13,6 +13,7 @@ import Input from '@material-ui/core/Input';
 import PropTypes from 'prop-types';
 import FormHelperText from '@material-ui/core/FormHelperText';
 import { Link } from 'react-router-dom';
+
 const customStyles = {
     content: {
         top: '50%',
@@ -22,14 +23,17 @@ const customStyles = {
         marginRight: '-50%',
         transform: 'translate(-50%, -50%)'
     }
+
 };
 
 const TabContainer = function (props) {
+
     return (
         <Typography component="div" style={{ padding: 0, textAlign: 'center' }}>
             {props.children}
         </Typography>
     )
+
 }
 
 TabContainer.propTypes = {
@@ -37,7 +41,6 @@ TabContainer.propTypes = {
 }
 
 class Header extends Component {
-
     constructor() {
         super();
         this.state = {
